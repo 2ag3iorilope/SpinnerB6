@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerB6</string>
+    <string name="HizkuntzaTestua">Aukeratu Hizkuntza</string>
+
+    <string name="castellano">Gaztelania</string>
+    <string name="euskera">Euskera</string>
+    <string name="ingles">Ingles</string>
+    <string name="aleman">Aleman</string>
+    <string name="noruego">Noruego</string>
+
+
+    <string name="frase_castellano">No hay sábado sin sol, ni mofeta sin olor</string>
+    <string name="frase_euskera">Ez dago larunbata eguzkirik gabe, ezta mofeta usainik gabe ere</string>
+    <string name="frase_ingles">There is no Saturday without sun, nor skunk without smell</string>
+    <string name="frase_aleman">Kein Samstag ohne Sonne, kein Stinktier ohne Geruch</string>
+    <string name="frase_noruego">Ingen lørdag uten sol, ingen skunk uten lukt</string>
+</resources>
